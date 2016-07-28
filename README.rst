@@ -15,6 +15,11 @@ in Cython.
 Running the demo
 ----------------
 
+This is intended to be run in a Python 2.7 environment (virtual or 
+otherwise), though it will likely work in Python 3.x as well. You'll need 
+tools like ``make`` and a C compiler - all of the stuff you normally need 
+for Cython and Sphinx development - to complete the steps.
+
 First install the necessary requirements::
 
   pip install -r requirements.txt
