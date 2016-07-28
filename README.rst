@@ -32,4 +32,4 @@ Then build the sphinx docs::
 
   make clean && make html
 
-The resulting documentations will be in ``build/html/index.html``.
+The resulting documentation will be in ``build/html/index.html``.
