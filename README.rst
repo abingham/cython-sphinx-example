@@ -1,5 +1,7 @@
 This is a demonstration of how to use Cython's "embedsignature" compiler
-directive to show Cython function signatures in Sphinx documentation.
+directive to show Cython function signatures in Sphinx documentation. 
+The main "magic" here is in `setup.py` where we actually specify the 
+compiler directive.
 
 First install the necessary requirements::
 
